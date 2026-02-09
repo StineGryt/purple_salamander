@@ -2,7 +2,6 @@
 # ---Load packages---
 library(palmerpenguins)
 library(tidyverse)
-library(ggplot2)
 
 
 # ---Plot---
