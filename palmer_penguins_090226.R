@@ -12,6 +12,6 @@ mass_flipper <- ggplot(data = penguins,
   geom_point(aes(color = species, 
                  shape = species),
              size = 3,
-             alpha = 0.8)
+             alpha = 0.7)
 
 mass_flipper
